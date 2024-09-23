@@ -8,6 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 smbus = "^1.1.post2"
+hidapi = "^0.14.0.post2"
+co2meter = "^0.2.6"
 
 
 [build-system]
